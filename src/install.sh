@@ -107,7 +107,7 @@ function pig_motd(){
 	echo ""
 	info "Teraz pora na vagrant ssh i sudo su... chyba ze nie chcesz nic psuc.
 
-Maszyna standardowo ma adres 192.168.10.35. Jesli chcesz go zmienic to musisz edytowac Vagrantfile
+Maszyna standardowo ma adres 192.168.10.50. Jesli chcesz go zmienic to musisz edytowac Vagrantfile
 
 Milego dnia :)"
 

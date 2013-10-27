@@ -5,8 +5,8 @@ $script = <<SCRIPT
 apt-get update
 apt-get --force-yes -y install git
 cd /tmp
-git clone https://github.com/rypczyk/pig_vagrant.git
-cd /tmp/pig_vagrant
+git clone https://github.com/rypczyk/pig_nagios.git
+cd /tmp/pig_nagios
 src/install.sh
 SCRIPT
 
